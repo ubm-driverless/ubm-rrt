@@ -1,10 +1,10 @@
 # ubm-rrt
 
-This files can be directly copied into `ubm-f1tenth` to make the package work as of 12/22/2024. To automatically build it in the docker container, you would have to add the link in the `~/f1tenth_ws/src` folder as usual.
+These files can be directly copied into `ubm-f1tenth` to make the package work as of 12/22/2024. To automatically build it in the docker container, you would have to add the link in the `~/f1tenth_ws/src` folder as usual.
 
 Since the package is not maintained anymore, documentation will not be updated according to UEP 11.
 
-<img src="rrt/img/screenshot.png" alt="rrt_screenshot" width="1920" height="1080">
+<img src="rrt/img/screenshot.png" alt="rrt_screenshot" width="1000" height="563">
 
 ## Build C++ dependencies
 
