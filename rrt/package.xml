@@ -24,6 +24,7 @@
 
   <export>
     <build_type>ament_cmake</build_type>
-    <rosdoc2>../rosdoc2.yml</rosdoc2>
+    <!-- Uncomment the below line if you are copying this package into the ubm-f1tenth repo. Used for documentation generation purposes. -->
+    <!-- <rosdoc2>../rosdoc2.yml</rosdoc2> -->
   </export>
 </package>
